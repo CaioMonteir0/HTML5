@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "\\\\wsl$\\Ubuntu\\home\\jumanji\\exemplo"
+		},
+		{
+			"path": "exemplo1"
+		},
+		{
+			"path": "tags"
+		},
+		{
+			"path": "listas"
+		},
+		{
+			"path": "exercicio de listas"
+		},
+		{
+			"path": "Organizando o código com div e span"
+		},
+		{
+			"path": "Atributos HTML"
+		},
+		{
+			"path": "Guia de Galáxias"
+		},
+		{
+			"path": "Criando Tabelas"
+		},
+		{
+			"path": "(TABELA)Massas no Sistema Solar"
+		},
+		{
+			"path": "Criando um Form para pesquisar no Google"
+		},
+		{
+			"path": "Cadastro com forms"
+		},
+		{
+			"path": "Site SPACEX"
+		}
+	],
+	"settings": {}
+}
